@@ -5,6 +5,7 @@
   <p><strong>A fast, private, multi-profile browser for Windows — designed and built from the ground up.</strong></p>
   <p>Tabbed browsing · Isolated profiles + incognito · Built-in ad blocking · Download manager · Local AI · Chrome/Edge import</p>
 </div>
+<img width="1093" height="748" alt="image" src="https://github.com/user-attachments/assets/e15b09b3-d7b4-4289-8fcb-8a67053be948" />
 
 ---
 
